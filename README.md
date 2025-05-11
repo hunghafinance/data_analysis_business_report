@@ -1,6 +1,3 @@
-# data_analysis_business_report
-## Welcome to my Business Data Analysis Portfolio
-
 # Data Analysis Business Report
 
 ## 📝 Overview
