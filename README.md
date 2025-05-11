@@ -5,7 +5,6 @@ This project was part of my university module focusing on using data analysis to
 
 ## 📊 Tools Used
 - Microsoft Excel
-- Power BI (optional)
 - Microsoft Word
 
 ## 🧠 Skills Demonstrated
