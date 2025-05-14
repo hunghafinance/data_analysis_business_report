@@ -24,6 +24,17 @@ The project was completed using **Microsoft Excel** for analysis and dashboardin
 
 ---
 
+## 🔍 Key Areas Covered
+
+- **Sales Performance Trends** – Identified peak revenue months and overall annual performance  
+- **Product & Category Analysis** – Examined the contribution of product categories to total sales  
+- **Geographical Insights** – Compared performance across countries like Canada, the USA, and the UK  
+- **Customer Demographics** – Analysed age and gender distributions to support marketing strategies  
+- **Seasonal Demand Shifts** – Observed increased demand for books in winter and apparel in spring  
+- **Discount & Review Relationship** – Found weak correlation between discount rates and customer reviews  
+- **Strategic Recommendations** – Suggested marketing, promotional, and data enhancement strategies based on findings
+
+---
 
 ## 🧠 Skills Demonstrated
 - Data cleaning and formatting
