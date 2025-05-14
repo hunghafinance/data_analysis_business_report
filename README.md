@@ -37,8 +37,6 @@ This project was completed during my first year at the University of Salford as 
 ## 🔒 Notes
 This project is academic and does not include sensitive data. Certain sections may be slightly redacted for privacy reasons.
 
-# 📊 E-commerce Data Analysis – University Business Report
-
 ---
 
 ## 🎯 Purpose
