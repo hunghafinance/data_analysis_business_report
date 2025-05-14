@@ -41,19 +41,6 @@ This project is academic and does not include sensitive data. Certain sections m
 
 ---
 
-## 📂 Files Included
-
-- 📄 **[View the Report Only Version (Recommended)](https://github.com/hunghafinance/data_analysis_business_report/blob/main/Data%20Analysis_Ha%20Phuc%20Hung_Report%20Only%20Version.docx)**  
-  Clean version of the final report without reflection or appendices. Best for quick review.
-
-- 📄 **[View the Full Version with Reflection and Appendices](https://github.com/hunghafinance/data_analysis_business_report/blob/main/Data%20Analysis_Ha%20Phuc%20Hung.docx)**  
-  Includes reflective writing and additional materials.
-
-- 📊 **[Download the E-commerce Synthetic Dataset (Excel)](https://github.com/hunghafinance/data_analysis_business_report/blob/main/ecommerce_synthetic_dataset%20(1).xlsx)**  
-  Dataset used for the analysis and dashboard creation.
-
----
-
 ## 🎯 Purpose
 
 This project demonstrates practical data analysis skills applied in a business environment. It reflects the ability to turn raw data into meaningful insights and present them in a structured and professional format for decision-makers.
